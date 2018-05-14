@@ -17,3 +17,13 @@ Python 3.6
 ```
 python main.py your_path
 ```
+
+## Test case:
+
+2 simple test cases in testdata directionary.
+
+Run test with:
+
+```
+python test.py
+```
