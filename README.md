@@ -15,5 +15,5 @@ Python 3.6
 ## How to run:
 
 ```
-python main.py yourdictionay.py
+python main.py your_path
 ```
