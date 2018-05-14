@@ -14,4 +14,6 @@ Python 3.6
 
 ## How to run:
 
+```
 python main.py yourdictionay.py
+```
